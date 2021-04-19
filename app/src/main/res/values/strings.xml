@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imgur-api</string>
+    <string name="top_weekly">Top Weekly</string>
+</resources>
