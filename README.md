@@ -1,1 +1,3 @@
-# imgur-api
+# Imgur - API
+
+Consumindo Imagur - API.
